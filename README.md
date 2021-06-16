@@ -6,6 +6,7 @@ MSX-DOS GR8net Commander - GR8.COM v0.15a updated
 
 Usage : gr8 [gr8netcommand(arg)]
 Example : gr8 netHelp
+
                   gr8 netGetHelp
                   gr8 netBrowse
                   gr8 netSetMap(3)
